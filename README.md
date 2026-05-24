@@ -22,7 +22,18 @@ API → Bash/Python Script → MySQL → PHP Dashboard
 - `weather.py` → Python-based weather data handling script
 
 ## Screenshots
-(Add your LinkedIn screenshots here later)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Cron Job Automation
+![Cron](screenshots/cron.png)
+
+### Script
+![Script](screenshots/script.png)
+
+### Database
+![Database](screenshots/db.png)
 
 ## Author
 Hardik More
